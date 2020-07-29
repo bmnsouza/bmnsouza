@@ -9,7 +9,7 @@
 
 Meu nome é Bruno Marcel e sou Full Stack Developer.
 
-💙 Apaixonado por tecnologia, inovação, viagens, idiomas, xadrez e futebol.
-🔭 Atualmente estou trabalhando na empresa SergipeTec alocado na Secretaria da Fazenda do Estado de Sergipe. Atuo nos diversos sistemas que envolvem Arrecadação Estadual, Acompanhamento de Processo e Educação Fiscal. Estou responsável por liderar a migração de tecnologia de back-end e front-end da área de manutenção de sistemas para Spring Boot a Angular respectivamente.
-🌱 Estou aprendendo Node.js, Spring Boot e Angular.
-📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
+- 💙 Apaixonado por tecnologia, inovação, viagens, idiomas, xadrez e futebol.
+- 🔭 Atualmente estou trabalhando na empresa SergipeTec alocado na Secretaria da Fazenda do Estado de Sergipe. Atuo nos diversos sistemas que envolvem Arrecadação Estadual, Acompanhamento de Processo e Educação Fiscal. Estou responsável por liderar a migração de tecnologia de back-end e front-end da área de manutenção de sistemas para Spring Boot a Angular respectivamente.
+- 🌱 Estou aprendendo Node.js, Spring Boot e Angular.
+- 📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
