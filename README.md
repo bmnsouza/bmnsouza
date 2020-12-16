@@ -7,9 +7,10 @@
 
 ## Olá! 👋 Bem-vindo ao meu GitHub!
 
-Meu nome é Bruno Marcel e sou Full Stack Developer.
+💙 Tecnologia, inovação, viagens, idiomas, futebol e xadrez.
 
-- 💙 Tecnologia, inovação, viagens, idiomas, xadrez e futebol.
-- 🔭 Atualmente estou trabalhando na empresa SergipeTec alocado na Secretaria da Fazenda do Estado de Sergipe. Atuo nos diversos sistemas que envolvem Arrecadação Estadual, Acompanhamento de Processo e Educação Fiscal. Estou responsável por liderar a migração de tecnologia de back-end e front-end da área de manutenção de sistemas para Spring Boot a Angular respectivamente.
-- 🌱 Estou aprendendo Node.js, Spring Boot e Angular.
-- 📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
+🌱 Estou aprendendo Spring e Angular.
+
+💼 Atualmente, estou Analista Desenvolvedor Sênior na empresa SergipeTec, alocado na Secretaria de Estado da Fazenda de Sergipe. Atuo no desenvolvimento dos diversos sistemas que envolvem a Arrecadação Estadual, Acompanhamento de Processos e Educação Fiscal, além de ser o líder técnico da equipe responsável pela migração de tecnologia da área de manutenção de sistemas para os frameworks Spring e Angular.
+
+📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
