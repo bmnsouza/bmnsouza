@@ -14,3 +14,7 @@
 💼 Atualmente, estou Analista de Sistemas Sênior na empresa SergipeTec, alocado na Secretaria de Estado da Fazenda de Sergipe. Atuo no desenvolvimento dos diversos sistemas que envolvem a Arrecadação Estadual, Acompanhamento de Processos e Educação Fiscal, além de ser o líder técnico da equipe responsável pela migração de tecnologia da área de manutenção de sistemas para os frameworks Spring e Angular.
 
 📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
+
+(https://github-readme-stats.vercel.app/api?username=bmnsouza&show_icons=true&theme=dracula)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=bmnsouza&layout=compact&theme=dracula)
