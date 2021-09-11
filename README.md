@@ -16,5 +16,4 @@
 📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
 
 ![Bruno Marcel's github stats](https://github-readme-stats.vercel.app/api?username=bmnsouza&show_icons=true&theme=dracula)
-
 ![Bruno Marcel's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmnsouza&layout=compact&theme=dracula)
