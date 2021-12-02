@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmnsouza@gmail.com)](mailto:bmnsouza@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmnsouza/)](https://www.linkedin.com/in/bmnsouza/)
 
-## Olá! 👋 Bem-vindo(a) ao meu GitHub!
+## Olá! 👋 Bem-vindo(a)!
 
 💙 Tecnologia, inovação, viagens, idiomas, futebol e xadrez.
 
