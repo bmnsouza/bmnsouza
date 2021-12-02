@@ -8,8 +8,6 @@
 
 💙 Tecnologia, inovação, viagens, idiomas, futebol e xadrez.
 
-💙 Tecnologia, inovação, viagens, idiomas, futebol e xadrez.
-
 💼 Atualmente estou Analista de Sistemas Sênior na empresa SergipeTec, alocado na Secretaria de Estado da Fazenda de Sergipe. Atuo na análise e desenvolvimento dos diversos sistemas que envolvem a Arrecadação Estadual, Acompanhamento de Processos e Educação Fiscal, além de estar liderando tecnicamente a equipe back-end responsável pela migração da arquitetura monolítica para a arquitetura de micro serviços utilizando o framework Spring Boot.
 
 📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), graduação em Sistemas de Informações pela Universidade Tiradentes (2007) e formação específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
