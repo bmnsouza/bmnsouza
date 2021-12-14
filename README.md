@@ -8,13 +8,13 @@
 
 💙 Tecnologia, inovação, viagens, idiomas, futebol e xadrez.
 
-💼 Atualmente estou Analista de Sistemas Sênior na empresa SergipeTec, alocado na Secretaria de Estado da Fazenda de Sergipe, analisando, propondo e codificando soluções sistêmicas que apoiam a área de negócios nas tomadas de decisão dos sistemas de Acompanhamento de Processos, Arrecadação Estadual, Auditoria Fiscal, Educação Fiscal, Guia Nacional de Recolhimento de Tributos Estaduais e Imposto sobre a Propriedade de Veículos Automotores, além de estar liderando tecnicamente a equipe de devs back-end responsável pela migração da arquitetura monolítica para microsserviços utilizando o framework Spring Boot.
+📚 Possui especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), Bacharelado em Sistemas de Informações pela Universidade Tiradentes (2007) e Curso Superior de Formação Específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
 
-📚 Possuo especialização em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), Bacharelado em Sistemas de Informações pela Universidade Tiradentes (2007) e Curso Superior de Formação Específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
+💼 Atualmente está Analista de Desenvolvimento de Sistemas na empresa SergipeTec, alocado na Secretaria de Estado da Fazenda de Sergipe, analisando, propondo e codificando soluções sistêmicas que apoiam a área de negócios nas tomadas de decisão dos sistemas de Acompanhamento de Processos, Arrecadação Estadual, Auditoria Fiscal, Educação Fiscal, Guia Nacional de Recolhimento de Tributos Estaduais e Imposto sobre a Propriedade de Veículos Automotores, além de estar liderando tecnicamente a equipe de devs back-end responsável pela migração da arquitetura monolítica para microsserviços utilizando o framework Spring Boot.
 
-_"Hard work beats talent when talent doesn't work hard" (Tim Notke)_
+💭 _"Hard work beats talent when talent doesn't work hard" (Tim Notke)_
 
-_"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda" (Mario Sergio Cortella)_
+💭 _"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda" (Mario Sergio Cortella)_
 
 ![Bruno Marcel's github stats](https://github-readme-stats.vercel.app/api?username=bmnsouza&show_icons=true&theme=dracula)
 ![Bruno Marcel's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmnsouza&layout=compact&theme=dracula)
