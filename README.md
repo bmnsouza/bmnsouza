@@ -4,7 +4,7 @@ Olá! 👋 Bem-vindo(a)!
 
 📚 Especialista em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), Bacharel em Sistemas de Informações pela Universidade Tiradentes (2007) e Curso Superior de Formação Específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
 
-💼 Atualmente estou atuando como Desenvolvedor Sênior Full Stack na empresa Basis Tecnologia da Informação S.A., no contrato BNDES - Banco Nacional de Desenvolvimento Econômico e Social, analisando, propondo e codificando soluções sistêmicas que apoiam a área de negócios nas tomadas de decisão.
+💼 Atualmente estou atuando como Desenvolvedor Sênior Full Stack na empresa Basis Tecnologia da Informação S.A., no contrato BNDES - Banco Nacional de Desenvolvimento Econômico e Social.
 
 💭 _"Hard work beats talent when talent doesn't work hard" (Tim Notke)_
 
