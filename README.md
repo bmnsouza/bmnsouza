@@ -8,7 +8,7 @@ Olá! 👋 Bem-vindo(a)!
 
 💭 _"Hard work beats talent when talent doesn't work hard." (Tim Notke)_
 
-💭 _"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda." (Mario Sergio Cortella)_
+💭 _"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda." (Mario Cortella)_
 
 ![Bruno Marcel's github stats](https://github-readme-stats.vercel.app/api?username=bmnsouza&show_icons=true&theme=dracula)
 ![Bruno Marcel's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmnsouza&layout=compact&theme=dracula)
