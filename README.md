@@ -1,6 +1,6 @@
 Olá! 👋 Bem-vindo(a)!
 
-💙 Tecnologia, inovação, viagens, idiomas, futebol e xadrez.
+💙 Tecnologia, viagens, idiomas, futebol e xadrez.
 
 📚 Especialista em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), Bacharel em Sistemas de Informações pela Universidade Tiradentes (2007) e Curso Superior de Formação Específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
 
