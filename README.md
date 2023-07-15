@@ -6,7 +6,7 @@ I am interested in technology, language, travel, chess and football.
 
 **********
 
-[ES]: Soy un desarrollador con más de 15 años de experiencia. Actualmente implemento microservicios en Java y consumo las APIs en Angular para la empresa Basis Tecnologia da Informação S.A., en el proyecto BNDES (Banco Nacional de Desarrollo Económico y Social) en Brasil.
+[ES]: Yo soy desarrollador con más de 15 años de experiencia. Actualmente implemento microservicios en Java y consumo las APIs en Angular para la empresa Basis Tecnologia da Informação S.A., en el proyecto BNDES (Banco Nacional de Desarrollo Económico y Social) en Brasil.
 Tengo 6 años de experiencia como Profesor en universidades privadas y federales en Brasil.
 Me interesa la tecnología, los idiomas, los viajes, el ajedrez y el fútbol.
 
