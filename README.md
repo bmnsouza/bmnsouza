@@ -1,7 +1,3 @@
-Olá! 👋 Bem-vindo(a)!
-
-💙 Tecnologia, viagens, idiomas, futebol e xadrez.
-
 📚 Especialista em Gestão de Projetos de Software pela Faculdade de Administração e Negócios de Sergipe (2011), Bacharel em Sistemas de Informações pela Universidade Tiradentes (2007) e Curso Superior de Formação Específica em Desenvolvimento de Aplicações Web pela Universidade Tiradentes (2004).
 
 💼 Atualmente estou atuando como Analista de Desenvolvimento de Sistemas na empresa Basis Tecnologia da Informação S.A., no contrato BNDES - Banco Nacional de Desenvolvimento Econômico e Social.
