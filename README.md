@@ -2,9 +2,9 @@
 
 💼 Atualmente estou atuando como Analista de Desenvolvimento de Sistemas na empresa Basis Tecnologia da Informação S.A., no contrato BNDES - Banco Nacional de Desenvolvimento Econômico e Social.
 
-💭 _"Hard work beats talent when talent doesn't work hard." (Tim Notke)_
+💭 "Hard work beats talent when talent doesn't work hard." (Tim Notke)
 
-💭 _"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda." (Mario Cortella)_
+💭 "Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda." (Mario Cortella)
 
 ![Bruno Marcel's github stats](https://github-readme-stats.vercel.app/api?username=bmnsouza&show_icons=true&theme=dracula)
 ![Bruno Marcel's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmnsouza&layout=compact&theme=dracula)
