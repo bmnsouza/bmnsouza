@@ -4,7 +4,7 @@ I am creative, dedicated, focused, organized, proactive, versatile and intereste
 
 "Hard work beats talent when talent doesn't work hard" (Tim Notke)
 
-**********
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>[ES]:</b> Yo soy analista de sistemas con más de 15 años de experiencia. Actualmente implemento microservicios en Java y consumo las APIs en Angular para la empresa Basis Tecnologia da Informação S.A., en el proyecto BNDES (Banco Nacional de Desarrollo Económico y Social) en Brasil.<br>
 Tengo 6 años de experiencia como Profesor en universidades privadas y federales en Brasil.<br>
@@ -12,7 +12,7 @@ Soy creativo, dedicado, enfocado, organizado, proactivo, versátil y me interesa
 
 "El trabajo duro vence al talento cuando el talento no trabaja duro" (Tim Notke)
 
-**********
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>[PT]:</b> Eu sou analista de sistemas com mais de 15 anos de experiência. Atualmente, eu implemento microsserviços em Java e consumo as APIs em Angular para a empresa Basis Tecnologia da Informação S.A., no projeto BNDES (Banco Nacional de Desenvolvimento Econômico e Social) no Brasil.<br>
 Eu possuo 6 anos de experiência como Professor em universidades privada e federal no Brasil.<br>
