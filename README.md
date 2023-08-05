@@ -1,4 +1,4 @@
-[EN]: I'm a developer with +15 years of experience. Currently, I work with the stack Angular | Java | Oracle for the company Basis Tecnologia da Informação S.A., in the BNDES (National Bank for Economic and Social Development) project in Brazil.<br>
+[EN]: I'm a developer with 15+ years of experience. Currently, I work with the stack Angular | Java | Oracle for the company Basis Tecnologia da Informação S.A., in the BNDES (National Bank for Economic and Social Development) project in Brazil.<br>
 I have 6 years of experience as a Professor in private and federal university in Brazil.<br>
 I am creative, dedicated, focused, organized, proactive and interested in technology, language, travel, chess and football.
 
@@ -6,7 +6,7 @@ I am creative, dedicated, focused, organized, proactive and interested in techno
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-[ES]: Yo soy desarrollador con +15 años de experiencia. Actualmente, trabajo con la stack Angular | Java | Oracle para la empresa Basis Tecnologia da Informação S.A., en el proyecto BNDES (Banco Nacional de Desarrollo Económico y Social) en Brasil.<br>
+[ES]: Yo soy desarrollador con 15+ años de experiencia. Actualmente, trabajo con la stack Angular | Java | Oracle para la empresa Basis Tecnologia da Informação S.A., en el proyecto BNDES (Banco Nacional de Desarrollo Económico y Social) en Brasil.<br>
 Tengo 6 años de experiencia como Profesor en universidad privada y federal en Brasil.<br>
 Soy creativo, dedicado, enfocado, organizado, proactivo y me interesa la tecnología, los idiomas, los viajes, el ajedrez y el fútbol.
 
@@ -14,7 +14,7 @@ Soy creativo, dedicado, enfocado, organizado, proactivo y me interesa la tecnolo
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-[PT]: Eu sou desenvolvedor com +15 anos de experiência. Atualmente, eu trabalho com a stack Angular | Java | Oracle para a empresa Basis Tecnologia da Informação S.A., no projeto BNDES (Banco Nacional de Desenvolvimento Econômico e Social) no Brasil.<br>
+[PT]: Eu sou desenvolvedor com 15+ anos de experiência. Atualmente, eu trabalho com a stack Angular | Java | Oracle para a empresa Basis Tecnologia da Informação S.A., no projeto BNDES (Banco Nacional de Desenvolvimento Econômico e Social) no Brasil.<br>
 Eu possuo 6 anos de experiência como Professor em universidade particular e federal no Brasil.<br>
 Sou criativo, dedicado, focado, organizado, pró-ativo e me interesso por tecnologia, idioma, viagem, xadrez e futebol.
 
