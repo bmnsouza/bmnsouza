@@ -1,6 +1,6 @@
 [EN]: I'm a developer with 15+ years of experience. Currently, I work with the stack Angular | Java | Oracle for the company Basis Tecnologia da Informação S.A., in the BNDES (National Bank for Economic and Social Development) project in Brazil.<br>
 I have 6 years of experience as a Professor in universities in Brazil.<br>
-I am creative, dedicated, focused, organized, proactive and interested in technology, language, travelling, chess and football.
+I am creative, dedicated, focused, organized, proactive and interested in technology, language, traveling, chess and football.
 
 "Hard work beats talent when talent doesn't work hard" (Tim Notke)
 
