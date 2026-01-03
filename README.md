@@ -48,5 +48,5 @@ Focused on clean code, scalable solutions, and knowledge sharing.
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bmnsouza&theme=dracula&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bmnsouza&theme=dracula&no-frame=true&column=4" />
 </p>
